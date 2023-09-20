@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * Example REST resource controller.
  *
- * @author Rick Fisher (richard.fisher@gm.com)
+ * @author Rick Fisher (fshtank@gmail.com)
  */
 @RestController
 @RequestMapping("/sandbox")

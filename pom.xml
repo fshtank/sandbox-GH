@@ -24,6 +24,7 @@
         <junit-jupiter.version>5.4.2</junit-jupiter.version>
         <mockito.version>3.3.3</mockito.version>
         <assertj.version>3.9.1</assertj.version>
+        <logback-version>1.2.6</logback-version>
     </properties>
 
     <dependencies>
@@ -96,6 +97,12 @@
             <groupId>org.springframework.integration</groupId>
             <artifactId>spring-integration-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>${logback-version}</version>
         </dependency>
     </dependencies>
 

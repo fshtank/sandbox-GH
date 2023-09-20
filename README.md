@@ -9,6 +9,11 @@ BUT, reading the [Baeldung blog on slf4j](https://www.baeldung.com/slf4j-with-lo
 - Distinction of log4j vs. JCL (Jakarta Commons Logging) nudged me to the dark side
 
 
+### 2023-09-19 
+- Practicing Java Time package, I would like to sort the results before printing them out
+       * https://www.baeldung.com/java-comparator-comparable
+       * https://www.baeldung.com/java-8-comparator-comparing
+
 ### 2023-09-16
 - Java 8 Time package practice 
   - Using Packt book stuff
